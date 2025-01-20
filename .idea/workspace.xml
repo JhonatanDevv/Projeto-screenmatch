@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5584ab2-7293-4df9-a383-d2c57a39f123" name="Changes" comment="Alterações">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/ErroDeConversaoDeAnoException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/screenmatch/br/com/alura/screenmatch/principal/PrincipalComBusca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenmatch/br/com/alura/screenmatch/principal/PrincipalComBusca.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
